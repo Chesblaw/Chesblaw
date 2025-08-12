@@ -9,9 +9,6 @@
 
 <h1>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/n-a-787746271/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://t.me/Chesblaw">
 	<img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
