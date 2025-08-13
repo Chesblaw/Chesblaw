@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🚀 Core Frameworks
+### 🚀 Frameworks
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)  
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
@@ -56,5 +56,7 @@
 [![stats](https://github-readme-stats.vercel.app/api?username=Chesblaw&show_icons=true&theme=radical)](https://github.com/yourusername)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chesblaw&layout=compact&theme=radical)](https://github.com/yourusername)
 
+## 🏆 Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
