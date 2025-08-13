@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"><h1>  Sup
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Nate a Software Engineer | I build a production grade apps and systems | Open Source Contributer</h1></div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Nate a Software Engineer | Open Source Contributer</h1></div>
 
 
 <h1>
