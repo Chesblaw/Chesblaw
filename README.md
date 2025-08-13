@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" width="150" style="margin-right: 40px">
+</div>
 
 <h1>
   Sup
