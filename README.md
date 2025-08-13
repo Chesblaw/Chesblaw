@@ -3,24 +3,21 @@
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" width="250" style="margin-right: 60px"></h1>
 </div>
 
-<h1>
-  Sup
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<h1>I’m Nate a Software Engineer | I build a production grade apps and systems | Open Source Developer</h1>
+<div align="center"><h1>  Sup
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Nate a Software Engineer | I build a production grade apps and systems | Open Source Developer</h1></div>
 
 
 <h1>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Chesblaw">
 	<img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://x.com/NatnaelAsn12334">
 	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=Nati-Man-code&style=flat-square&color=blue" alt=""/>
+</div >
+	<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nati-Man-code&style=flat-square&color=blue" alt=""/></div>
 </h1>
 
 ### :hammer_and_wrench: Langs :
