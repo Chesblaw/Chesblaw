@@ -36,10 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-Man-code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
 
 ### 🚀 Core Frameworks
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
@@ -57,9 +53,8 @@
 
 
 ### :fire: Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nati-Man-code&theme=dark&background=000000)](https://git.io/streak-stats)
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chesblaw&show_icons=true&theme=radical)
+[![stats](https://github-readme-stats.vercel.app/api?username=Chesblaw&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chesblaw&layout=compact&theme=radical)](https://github.com/yourusername)
 
 
 
