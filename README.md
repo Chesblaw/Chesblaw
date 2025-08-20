@@ -47,11 +47,11 @@ Below I you can get some of works And You can reach out Me and let’s discuss f
   <a href="https://github.com/Chesblaw/go-load-balancer" target="_blank">
     <img src="https://img.shields.io/badge/Go_Load_Balancer-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
-  <a href="https://https://github.com/Chesblaw/Langchain-Tgbot" target="_blank">
+  <a href="https:github.com/Chesblaw/Langchain-Tgbot" target="_blank">
     <img src="https://img.shields.io/badge/Employee_Chatbot-AI?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://github.com/Nati-Man-code/whot-king" target="_blank">
-    <img src="https://img.shields.io/badge/Whot_King-Game?style=for-the-badge&logo=unity&logoColor=white"/>
+  <a href="https:github.com/Chesblaw/surplus-supper" target="_blank">
+    <img src="https://img.shields.io/badge/surplus-supper?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
 </p>
 
