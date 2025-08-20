@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70089&center=true&vCenter=true&width=600&lines=Sup!+%F0%9F%91%8B;I'm+Natnael+Asnake;a+Software+Engineer;Backend+&+API+Expert;Building+High-Performance+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70089&center=true&vCenter=true&width=600&lines=Sup!+%F0%9F%91%8B;I'm+Natnael+Asnake;a+Software+Engineer;Backend+&+API+Expert;Building+High+Performance+Applications"/>
 </h1>
 
 <p align="center">
