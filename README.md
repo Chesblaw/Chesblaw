@@ -34,7 +34,7 @@ Systems. I have a solid experience on **Microservice, Distributed System & Cloud
   ✅ Implemented **real-time analytics dashboards** for client systems<br>
 </p>
 
-I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
+now the turn is your I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
 
 Below you can get some of works And You can reach out Me and let’s discuss further  
 
