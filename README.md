@@ -21,6 +21,19 @@
 I'm a **software engineer**,I love building developer-first APIs and Production Grade Apps and
 Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
 
+### 🌟 Highlights 
+
+<p align="left">
+  
+  ✅ Built and deployed **5+ web and mobile apps** used by thousands of users<br>
+  ✅ Processed **50,000+ transactions** through internal systems<br>
+  ✅ Developed an AI-powered **Employee Chatbot** handling **100K+ queries**<br>
+  ✅ Successfully delivered **12+ projects** across multiple domains<br>
+  ✅ Reached **10K+ active users** on deployed applications<br>
+  ✅ Won **🏆 1 Hackathon** and contributed to open-source projects<br>
+  ✅ Implemented **real-time analytics dashboards** for client systems<br>
+</p>
+
 I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
 
 Below you can get some of works And You can reach out Me and let’s discuss further  
@@ -59,6 +72,7 @@ Below you can get some of works And You can reach out Me and let’s discuss fur
 </p>
 
 ---
+
 
 <!-- ==================== Stats ==================== -->
 ### 📊 GitHub Stats
