@@ -51,7 +51,7 @@ Below I you can get some of works And You can reach out Me and let’s discuss f
     <img src="https://img.shields.io/badge/Employee_Chatbot-AI?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https:github.com/Chesblaw/surplus-supper" target="_blank">
-    <img src="https://img.shields.io/badge/surplus-supper?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/surplus-supper?style=for-the-badge&logo=golang&logoColor=white"/>
   </a>
 </p>
 
