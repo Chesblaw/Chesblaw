@@ -22,8 +22,6 @@ I'm a **software engineer**, building developer-first APIs and Production Grade
 Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
 
 I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
-I’m proficient in **Webhook, gRPC, Kafka, AMQP AWS(Lambda, ECS, Aurora, S3), Gin, Go templating, Node.js,
-Express, Elasticsearch, Terraform**.
 
 Below I provided some of works And You can reach out Me and let’s discuss further  
 
