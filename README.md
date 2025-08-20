@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70089&center=true&vCenter=true&width=600&lines=Sup!+%F0%9F%91%8B;I'm+Natnael+Asnake;a+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70089&center=true&vCenter=true&width=600&lines=Sup!+%F0%9F%91%8B;I'm+Natnael+Asnake;a+Software+Engineer | Open Source Developer"/>
 </h1>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 <!-- ==================== About Me ==================== -->
 ### 👋 About Me
-I'm a **software engineer**, building developer-first APIs and Production Grade
+I'm a **software engineer**,I love building developer-first APIs and Production Grade Apps and
 Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
 
 I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
 
-Below I you can get some of works And You can reach out Me and let’s discuss further  
+Below you can get some of works And You can reach out Me and let’s discuss further  
 
 ---
 
