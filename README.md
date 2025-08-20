@@ -44,10 +44,10 @@ Below I you can get some of works And You can reach out Me and let’s discuss f
 <!-- ==================== Projects ==================== -->
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/Nati-Man-code/go-load-balancer" target="_blank">
+  <a href="https://github.com/Chesblaw/go-load-balancer" target="_blank">
     <img src="https://img.shields.io/badge/Go_Load_Balancer-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
-  <a href="https://github.com/Nati-Man-code/employee-chatbot" target="_blank">
+  <a href="https://github.com/Chesblaw/employee-chatbot" target="_blank">
     <img src="https://img.shields.io/badge/Employee_Chatbot-AI?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://github.com/Nati-Man-code/whot-king" target="_blank">
