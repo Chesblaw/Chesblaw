@@ -5,9 +5,23 @@
   </a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70089&center=true&vCenter=true&width=1000&lines=Sup!+%F0%9F%91%8B;I'm+Natnael+Asnake;a+Software+Engineer;Backend+Developer;Building+High+Performance+Applications"/>
+<p align="center">
+  <!-- Profile Widget -->
+  <a href="https://github.com/Chesblaw">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Chesblaw&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+  </a>
+</p>
+
+<h1>
+<p align="center">
+  <!-- Typing Header -->
+  <a href="https://github.com/yeabnoah">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=650&lines=Sup+👋,+I'm+Nathan;Open-source+Builder;Always+Learning+🚀" alt="Typing SVG" />
+  </a>
+</p>
 </h1>
+
+
 
 <p align="center">
   <a href="https://https://x.com/NatnaelAsn12334" target="_blank">
@@ -15,11 +29,16 @@
   </a>
   <a href="mailto:nasnake7@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </
+  </a>
+<a href="https://t.me/Chesblaw" target="_blank">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-339933?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 
 <!-- ==================== About Me ==================== -->
 ### 👋 About Me
-I'm a **software engineer**,I love building developer-first APIs and 3+ Years of Experiance in Production Grade Apps and
+I'm a **software engineer**,I love building developer-first APIs and Production Grade Apps and
 Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
 
 ### 🌟 Highlights 
@@ -82,6 +101,7 @@ Below you can get some of works And You can reach out Me and let’s discuss fur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chesblaw&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chesblaw&theme=radical" />
 </p>
+
 
 
 
