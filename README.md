@@ -38,16 +38,16 @@
 
 <!-- ==================== About Me ==================== -->
 ### 👋 About Me
-I'm a **software engineer**,I love building developer-first APIs and Production Grade Apps and
+I'm a **software engineer**,I love building developer-first APIs and 3+ Years of Experiance Production Grade Apps and
 Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
 
 ### 🌟 Highlights 
 
 <p align="left">
-  
-  ✅ Built and deployed **5+ web and mobile apps** used by thousands of users<br>
+  ✅ 3 production-ready applications delivered<br>
+  ✅ Built and deployed **5+ web and mobile apps** used by many of users<br>
   ✅ Processed **50,000+ transactions** through internal systems<br>
-  ✅ Developed an AI-powered **Employee Chatbot** handling **100K+ queries**<br>
+  ✅ Developed an AI-powered **Employee Chatbot** handling **10K+ queries**<br>
   ✅ Successfully delivered **12+ projects** across multiple domains<br>
   ✅ Reached **10K+ active users** on deployed applications<br>
   ✅ Won **🏆 1 Hackathon** and contributed to open-source projects<br>
