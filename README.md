@@ -44,6 +44,7 @@ Systems. I have a solid experience on **Microservice, Distributed System & Cloud
 ### 🌟 Highlights 
 
 <p align="left">
+  
   ✅ 3 production-ready applications delivered<br>
   ✅ Built and deployed **5+ web and mobile apps** used by many of users<br>
   ✅ Processed **50,000+ transactions** through internal systems<br>
