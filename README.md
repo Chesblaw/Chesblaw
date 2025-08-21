@@ -1,3 +1,9 @@
+<p align="center">
+  <!-- Profile Widget -->
+  <a href="https://github.com/Chesblaw">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Chesblaw&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://archlinux.org/">
@@ -5,12 +11,6 @@
   </a>
 </div>
 
-<p align="center">
-  <!-- Profile Widget -->
-  <a href="https://github.com/Chesblaw">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Chesblaw&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
-  </a>
-</p>
 
 <h1>
 <p align="center">
