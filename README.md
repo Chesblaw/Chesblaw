@@ -53,6 +53,10 @@ Systems. I have a solid experience on **Microservice, Distributed System & Cloud
   ✅ Reached **10K+ active users** on deployed applications<br>
   ✅ Won **🏆 1 Hackathon** and contributed to open-source projects<br>
   ✅ Implemented **real-time analytics dashboards** for client systems<br>
+  ✅ Implemented **real-time analytics dashboards** for client systems<br>
+  ✅ Plus Performed **E2E, functional, non-functional, unit, API, system, and integration testing**.
+
+
 </p>
 
 I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
