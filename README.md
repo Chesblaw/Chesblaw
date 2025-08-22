@@ -60,7 +60,7 @@ Systems. I have a solid experience on **Microservice, Distributed System & Cloud
 
 I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
 
-Below you can get some of works And You can reach out Me and let’s discuss further  
+you can get some of works on Repositories And You can reach out Me and let’s discuss further  
 
 ---
 
