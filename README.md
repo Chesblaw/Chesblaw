@@ -38,8 +38,8 @@
 
 <!-- ==================== About Me ==================== -->
 ### 👋 About Me
-I'm a **software engineer**,I love building developer-first APIs and 3+ Years of Experiance Production Grade Apps and
-Systems. I have a solid experience on **Microservice, Distributed System & Cloud**.
+I have a solid experience on **Production Grade Apps and
+Systems.**
 
 ### 🌟 Highlights 
 
@@ -58,17 +58,9 @@ Systems. I have a solid experience on **Microservice, Distributed System & Cloud
 
 </p>
 
-I’m here to help you to build **Scalable, Maintainable, Robust , Secure, Seamless and Serverless System**.
+I’m here to help you to build **Scalable Secure, Seamless and Serverless System**.
 
 you can get some of works on Repositories And You can reach out Me and let’s discuss further  
-
----
-
-### 💼 Experience
-- **Software Development**, MMCY – Build AI Powered Telegram Chatbot for Emoloyee  
-- **Backend Developer**, AddisPay – Contributed to Payment gateway system
-
----
 
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Skills 
