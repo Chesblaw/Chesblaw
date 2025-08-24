@@ -68,6 +68,8 @@ you can get some of works on Repositories And You can reach out Me and let’s d
 - **Software Development**, MMCY – Build AI Powered Telegram Chatbot for Emoloyee  
 - **Backend Developer**, AddisPay – Contributed to Payment gateway system
 
+---
+
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Skills 
 <p align="center">
