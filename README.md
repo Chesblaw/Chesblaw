@@ -57,12 +57,11 @@ Systems.**
   ✅ Implemented **real-time analytics dashboards** for client systems<br>
   ✅ Plus Performed **E2E, functional, non-functional, unit, API, system, and integration testing**.
 
-
-</p>
-
 I’m here to help you to build **Scalable Secure, Seamless and Serverless System**.
 
 you can get some of works on Repositories And You can reach out Me and let’s discuss further  
+
+</p>
 
 ---
 <!-- ==================== Skills ==================== -->
