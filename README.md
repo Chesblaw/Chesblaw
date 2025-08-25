@@ -36,8 +36,10 @@
 
 </p>
 
+---
 <!-- ==================== About Me ==================== -->
 ### 👋 About Me
+
 I have a solid experience on **Production Grade Apps and
 Systems.**
 
@@ -62,6 +64,7 @@ I’m here to help you to build **Scalable Secure, Seamless and Serverless Syste
 
 you can get some of works on Repositories And You can reach out Me and let’s discuss further  
 
+---
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Skills Worked On
 <p align="center">
