@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://archlinux.org/">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Logo" width="350"/>
+    <img src="https://www.vectorlogo.zone/logos/arch/archlinux-ar21.svg" alt="Arch Logo" width="350"/>
   </a>
 </div>
 
