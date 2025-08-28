@@ -45,7 +45,7 @@ Systems** in the software industry.
 
 <p align="left">
   
- ✅ Built, Participated and deployed 3+ web apps used by users<br>
+ ✅ Built and deployed 3+ web apps used by users<br>
   ✅ Developed an AI-powered Employee Chatbot handling 10K+ queries<br>
   ✅ Successfully delivered 6+ projects across different domains<br>
   ✅ contributed to large scale open-source software projects<br>
