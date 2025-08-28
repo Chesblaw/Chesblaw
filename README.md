@@ -43,26 +43,6 @@
 I have a solid experience on **Production Grade Apps and
 Systems.**
 
-### 🌟 Highlights 
-
-<p align="left">
-  
-  ✅ 3 production-ready applications delivered<br>
-  ✅ Built and deployed **5+ web and mobile apps** used by many of users<br>
-  ✅ Processed **50,000+ transactions** through internal systems<br>
-  ✅ Developed an AI-powered **Employee Chatbot** handling **10K+ queries**<br>
-  ✅ Successfully delivered **12+ projects** across multiple domains<br>
-  ✅ Reached **10K+ active users** on deployed applications<br>
-  ✅ Won **🏆 1 Hackathon** and contributed to open-source projects<br>
-  ✅ Implemented **real-time analytics dashboards** for client systems<br>
-  ✅ Plus Performed **E2E, functional, non-functional, unit, API, system, and integration testing**.
-
-I’m here to help you to build **Scalable Secure, Seamless and Serverless System**.
-
-you can get some of works on Repositories And You can reach out Me and let’s discuss further  
-
-</p>
-
 ---
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Languages and Frameworks Worked On
