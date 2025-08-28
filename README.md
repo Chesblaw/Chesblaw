@@ -5,11 +5,6 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://archlinux.org/">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux Logo" width="350"/>
-  </a>
-</div>
 
 
 <h1>
