@@ -33,10 +33,15 @@
 
 ---
 <!-- ==================== About Me ==================== -->
-### 🌟 Highlights
+### 👋 About
 
 Hello my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
 Systems**in the software industry.
+
+---
+
+### 🌟 Highlights
+
 <p align="left">
   
   ✅ Built, Participated and deployed 3+ web apps used by users<br>
