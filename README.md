@@ -38,8 +38,6 @@
 Hello my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
 Systems** in the software industry.
 
----
-
 ### 🌟 Highlights
 
 <p align="left">
@@ -49,6 +47,8 @@ Systems** in the software industry.
   ✅ Successfully delivered 6+ projects across different domains<br>
   ✅ contributed to large scale open-source software projects<br>
 </p>
+
+---
 
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Languages and Frameworks Worked On
