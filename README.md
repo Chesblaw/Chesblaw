@@ -6,6 +6,11 @@
 </p>
 
 
+<div align="center">
+  <a href="https://archlinux.org/">
+    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Logo" width="350"/>
+  </a>
+</div>
 
 <h1>
 <p align="center">
@@ -15,12 +20,6 @@
   </a>
 </p>
 </h1>
-
-<div align="center">
-  <a href="https://archlinux.org/">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Logo" width="350"/>
-  </a>
-</div>
 
 <p align="center">
   <a href="https://https://x.com/NatnaelAsn12334" target="_blank">
