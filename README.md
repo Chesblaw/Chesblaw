@@ -78,8 +78,8 @@ Systems**in the software industry.
 ---
 
 <!-- ==================== Projects ==================== -->
-### 🚀 Featured Projects
-<p align="center">
+### 🚀 Featured Works
+<p align="center"
   <a href="https://github.com/Chesblaw/go-load-balancer" target="_blank">
     <img src="https://img.shields.io/badge/Go_Load_Balancer-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
