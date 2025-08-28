@@ -36,7 +36,7 @@
 ### 👋 About
 
 Hello my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
-Systems**in the software industry.
+Systems** in the software industry.
 
 ---
 
@@ -44,13 +44,11 @@ Systems**in the software industry.
 
 <p align="left">
   
-  ✅ Built, Participated and deployed 3+ web apps used by users<br>
+ ✅ Built, Participated and deployed 3+ web apps used by users<br>
   ✅ Developed an AI-powered Employee Chatbot handling 10K+ queries<br>
   ✅ Successfully delivered 6+ projects across different domains<br>
   ✅ contributed to large scale open-source software projects<br>
 </p>
-
----
 
 <!-- ==================== Skills ==================== -->
 ### ⚡ Core Languages and Frameworks Worked On
