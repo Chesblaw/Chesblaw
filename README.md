@@ -10,13 +10,17 @@
 <h1>
 <p align="center">
   <!-- Typing Header -->
-  <a href="https://github.com/yeabnoah">
+  <a href="https://github.com/Chesblaw">
     <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Hello+👋,+I'm+Natnael;Developer;I+Build+Apps🚀" alt="Typing SVG" />
   </a>
 </p>
 </h1>
 
-
+<div align="center">
+  <a href="https://archlinux.org/">
+    <img src="https://www.vectorlogo.zone/logos/archlinux/arch-ar21.svg" alt="Arch Linux Logo" width="350"/>
+  </a>
+</div>
 
 <p align="center">
   <a href="https://https://x.com/NatnaelAsn12334" target="_blank">
