@@ -16,7 +16,7 @@
 <p align="center">
   <!-- Typing Header -->
   <a href="https://github.com/Chesblaw">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Hello+👋,+I'm+Natnael;Developer;I+Build+Apps🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋,+I'm+Nate;Developer;I+Build+Apps🚀" alt="Typing SVG" />
   </a>
 </p>
 </h1>
@@ -55,7 +55,7 @@ Systems**
 ---
 
 <!-- ==================== Skills ==================== -->
-### ⚡ Core Languages and Frameworks Worked On
+### ⚡ Worked On
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -86,20 +86,26 @@ Systems**
 
 <!-- ==================== Projects ==================== -->
 ### 🚀 Featured Projects 
-<p align="center"
-  <a href="https://github.com/Chesblaw/go-load-balancer" target="_blank">
-    <img src="https://img.shields.io/badge/Go_Load_Balancer-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Chesblaw/Langchain-Tgbot" target="_blank">
-    <img src="https://img.shields.io/badge/Employee_Chatbot-AI?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Chesblaw/Scentopia-Backend" target="_blank">
-    <img src="https://img.shields.io/badge/Perfume_Site-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  </a>
-    <a href="https://github.com/Chesblaw/surplus-supper" target="_blank">
-    <img src="https://img.shields.io/badge/surplus-supper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
-</p>
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Chesblaw/Langchain-Tgbot" title="Employee ChatBot"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Langchain-Tgbot&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Chesblaw/go-load-balancer" title="go-load-balancer"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=go-load-balancer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="500%" align="center">
+  <a align="right" href="https://github.com/Chesblaw/surplus-supper" title="surplus-supper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=surplus-supper&theme=react&border_color=61dafb&border_radius=10&style="border_bottom: 300px"></a>
+    <a align="left" href="https://github.com/Chesblaw/Scentopia-Backend" title="Scentopia"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Scentopia-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://https://github.com/Chesblaw/Job-Recommendation-System" title="Job-Recommendation-System"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Job-Recommendation-System&theme=react&border_color=61dafb&border_radius=20&"></a>
+  <a align="right" href="https://github.com/Chesblaw/ghost-drive-be" title="ghost-drive-be"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=ghost-drive-be&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Chesblaw?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ---
 
