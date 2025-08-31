@@ -60,6 +60,31 @@ Systems**
 </p>
 
 ---
+## 💼 Experience
+
+<div align="center">
+  
+  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin: 10px; width: 80%;">
+    <h3>🚀 Software Engineer @ <a href="https://companyA.com">Company A</a></h3>
+    <p><b>2022 – Present</b></p>
+    <ul>
+      <li>Built scalable web applications</li>
+      <li>Improved performance by 30%</li>
+    </ul>
+  </div>
+
+  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin: 10px; width: 80%;">
+    <h3>🔌 Backend Developer @ <a href="https://companyB.com">Company B</a></h3>
+    <p><b>2020 – 2021</b></p>
+    <ul>
+      <li>Designed and maintained REST APIs</li>
+      <li>Integrated third-party services</li>
+    </ul>
+  </div>
+
+</div>
+
+---
 
 <!-- ==================== Skills ==================== -->
 <div align=center>
