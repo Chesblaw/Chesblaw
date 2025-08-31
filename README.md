@@ -60,32 +60,19 @@ Systems**
 </p>
 
 ---
-## 💼 Companies I've Worked With
+<div>
 
-### 🏢 Company A
-**Software Engineer**  
-*Jan 2022 – Present*  
-- 🚀 Built scalable web applications serving thousands of users  
-- ⚡ Improved system performance by 30%  
-- 🤝 Collaborated with cross-functional teams on product features  
+### 💼 Companies I've Worked With
+</div>
+[![MMCY](https://img.shields.io/badge/Company%20A-Software%20Engineer-blue?style=for-the-badge&logo=github)](https://MMCY.com)  
+📅 2024 Jul – 2024 Oct • 🚀 Built Employee Chatbot apps, that handle 10k queries
 
----
+[![Company B](https://img.shields.io/badge/Company%20B-Backend%20Developer-green?style=for-the-badge&logo=serverless)](https://companyB.com)  
+📅 2020 – 2021 • 🔌 Designed APIs, integrated services
 
-### 🏢 Company B  
-**Backend Developer**  
-*Jun 2020 – Dec 2021*  
-- 🔌 Designed and maintained RESTful APIs  
-- 🔗 Integrated multiple third-party services  
-- 📊 Optimized database queries, reducing latency  
+[![Company C](https://img.shields.io/badge/Company%20C-Intern-yellow?style=for-the-badge&logo=code)](https://companyC.com)  
+📅 2020 • 🐣 Contributed to tools, fixed bugs
 
----
-
-### 🏢 Company C  
-**Intern**  
-*Jan 2020 – May 2020*  
-- 🐣 Assisted in developing internal tools  
-- 🐛 Contributed to bug fixing and documentation  
-- 🌱 Learned best practices for agile teamwork  
 
 ---
 
