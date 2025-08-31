@@ -86,12 +86,11 @@ Systems**
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Chesblaw/Langchain-Tgbot" title="Employee ChatBot"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Langchain-Tgbot&theme=react&border_color=61dafb&border_radius=10"></a>
-
-<a align="right" href="https://github.com/Chesblaw/go-load-balancer" title="go-load-balancer"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=go-load-balancer&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Chesblaw/surplus-supper" title="surplus-supper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=surplus-supper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/Chesblaw/surplus-supper" title="surplus-supper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=surplus-supper&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/Chesblaw/go-load-balancer" title="go-load-balancer"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=go-load-balancer&theme=react&border_color=61dafb&border_radius=10"></a>
 
  <a align="left" href="https://github.com/Chesblaw/Scentopia-Backend" title="Scentopia"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Scentopia-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -102,15 +101,11 @@ Systems**
 <a align="right" href="https://github.com/Chesblaw/ghost-drive-be" title="ghost-drive-be"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=ghost-drive-be&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://https://github.com/Chesblaw/Job-Recommendation-System" title="Job-Recommendation-System"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Job-Recommendation-System&theme=react&border_color=61dafb&border_radius=10&"></a>
- 
-<a align="right" href="https://github.com/Chesblaw/ghost-drive-be" title="ghost-drive-be"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=ghost-drive-be&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
 
-<h4 align="bottom">
+<h4 align="center">
   <a href="https://github.com/Chesblaw?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 ---
 
 <!-- ==================== Stats ==================== -->
