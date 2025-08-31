@@ -62,18 +62,6 @@ Systems**
 ---
 <div>
 
-### 💼 Companies I've Worked With
-</div>
-[![MMCY](https://img.shields.io/badge/Company%20A-Software%20Engineer-blue?style=for-the-badge&logo=github)](https://MMCY.com)  
-📅 2024 Jul – 2024 Oct • 🚀 Built Employee Chatbot apps, that handle 10k queries
-
-[![Company B](https://img.shields.io/badge/Company%20B-Backend%20Developer-green?style=for-the-badge&logo=serverless)](https://companyB.com)  
-📅 2020 – 2021 • 🔌 Designed APIs, integrated services
-
-[![Company C](https://img.shields.io/badge/Company%20C-Intern-yellow?style=for-the-badge&logo=code)](https://companyC.com)  
-📅 2020 • 🐣 Contributed to tools, fixed bugs
-
-
 ---
 
 <!-- ==================== Skills ==================== -->
