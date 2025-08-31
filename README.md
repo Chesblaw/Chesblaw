@@ -96,7 +96,7 @@ Systems**
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Chesblaw/Langchain-Tgbot" title="Employee ChatBot"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Langchain-Tgbot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Chesblaw/Langchain-Tgbot" title="Langchain-Tgbot"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Langchain-Tgbot&theme=react&border_color=61dafb&border_radius=10"></a>
   
 <a align="right" href="https://github.com/Chesblaw/go-load-balancer" title="go-load-balancer"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=go-load-balancer&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
