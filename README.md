@@ -37,12 +37,18 @@
 
 ---
 <!-- ==================== About Me ==================== -->
+<div align=center>
+  
 ### 👋 About
+</div>
 
 Hello my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
 Systems**
 
+<div align=center>
+  
 ### 🌟 Highlights
+</div>
 
 <p align="left">
 
@@ -56,8 +62,10 @@ Systems**
 ---
 
 <!-- ==================== Skills ==================== -->
+<div align=center>
+  
 ### ⚡ Worked On
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -82,7 +90,10 @@ Systems**
 ---
 
 <!-- ==================== Projects ==================== -->
+<div align=center>
+  
 ### 🚀 Featured Projects 
+</div>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Chesblaw/Langchain-Tgbot" title="Langchain-Tgbot"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Langchain-Tgbot&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -108,7 +119,10 @@ Systems**
 ---
 
 <!-- ==================== Stats ==================== -->
+<div align=center>
+  
 ### 📊 GitHub Stats
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chesblaw&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chesblaw&layout=compact&theme=radical" />
