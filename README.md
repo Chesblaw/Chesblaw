@@ -60,29 +60,32 @@ Systems**
 </p>
 
 ---
-## 💼 Experience
+## 💼 Companies I've Worked With
 
-<div align="center">
-  
-  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin: 10px; width: 80%;">
-    <h3>🚀 Software Engineer @ <a href="https://companyA.com">Company A</a></h3>
-    <p><b>2022 – Present</b></p>
-    <ul>
-      <li>Built scalable web applications</li>
-      <li>Improved performance by 30%</li>
-    </ul>
-  </div>
+### 🏢 Company A
+**Software Engineer**  
+*Jan 2022 – Present*  
+- 🚀 Built scalable web applications serving thousands of users  
+- ⚡ Improved system performance by 30%  
+- 🤝 Collaborated with cross-functional teams on product features  
 
-  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin: 10px; width: 80%;">
-    <h3>🔌 Backend Developer @ <a href="https://companyB.com">Company B</a></h3>
-    <p><b>2020 – 2021</b></p>
-    <ul>
-      <li>Designed and maintained REST APIs</li>
-      <li>Integrated third-party services</li>
-    </ul>
-  </div>
+---
 
-</div>
+### 🏢 Company B  
+**Backend Developer**  
+*Jun 2020 – Dec 2021*  
+- 🔌 Designed and maintained RESTful APIs  
+- 🔗 Integrated multiple third-party services  
+- 📊 Optimized database queries, reducing latency  
+
+---
+
+### 🏢 Company C  
+**Intern**  
+*Jan 2020 – May 2020*  
+- 🐣 Assisted in developing internal tools  
+- 🐛 Contributed to bug fixing and documentation  
+- 🌱 Learned best practices for agile teamwork  
 
 ---
 
