@@ -1,4 +1,4 @@
-qaqq<p align="center">
+<p align="center">
   <!-- Profile Widget -->
   <a href="https://github.com/Chesblaw">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Chesblaw&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
@@ -39,10 +39,10 @@ qaqq<p align="center">
 <!-- ==================== About Me ==================== -->
 <div align=center>
   
-### 👋 About
+### 👋 A little Bit About Me
 </div>
 
-Hello my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
+my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
 Systems**
 
 <div align=center>
