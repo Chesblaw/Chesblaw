@@ -1,4 +1,4 @@
-<p align="center">
+qaqq<p align="center">
   <!-- Profile Widget -->
   <a href="https://github.com/Chesblaw">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Chesblaw&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
@@ -67,7 +67,7 @@ Systems**
 <!-- ==================== Skills ==================== -->
 <div align=center>
   
-### ⚡ Worked On
+### ⚡Core Languages & Frameworks Worked On
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
