@@ -16,7 +16,7 @@
 <p align="center">
   <!-- Typing Header -->
   <a href="https://github.com/Chesblaw">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋,+I'm+Nate;OSS+-+ Developer;I+Build+Apps🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋,+I'm+Nate;OSS+ Developer;I+Build+Apps🚀" alt="Typing SVG" />
   </a>
 </p>
 </h1>
