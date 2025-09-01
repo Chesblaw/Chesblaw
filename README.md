@@ -33,20 +33,20 @@
 <!-- ==================== About Me ==================== -->
 <div align="center" style="color:#00bfff;">
 
- ### Summary & Highlights 
+ ### <b>Summary & Highlights</b>
 
 </div>
 
 
-my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
+**My name is Natnael Asnake I have 3+ years solid experience on Production Grade Apps and
 Systems**
 
 <p align="left">
 
-  ✅ Built and deployed 3+ apps used by users<br>
-  ✅ Developed an AI-powered Employee Chatbot handling 10K+ queries<br>
-  ✅ Successfully delivered 6+ projects across different domains<br>
-  ✅ Contributed to large scale OSS<br>
+  ✅ **Built and deployed 3+ apps used by users<br>**
+  ✅ **Developed an AI-powered Employee Chatbot handling 10K+ queries<br>**
+  ✅ **Successfully delivered 6+ projects across different domains<br>**
+  ✅ **Contributed to large scale OSS<br>**
   
 </p>
 
