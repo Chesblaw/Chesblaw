@@ -31,9 +31,8 @@
 
 ---
 <!-- ==================== About Me ==================== -->
-<div align=center style="color:#00bfff; font-weight:bold; font-size:1.5em;">
-  
-### Summary & Highlights
+<div align="center" style="color:#00bfff; font-weight:bold; font-size:1.5em;">
+  Summary & Highlights
 </div>
 
 my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
