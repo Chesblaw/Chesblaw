@@ -31,7 +31,7 @@
 
 ---
 <!-- ==================== About Me ==================== -->
-<div align=center color=#00bfff>
+<div align="center" style="color:#00bfff;">
 
  ### Summary & Highlights 
 
