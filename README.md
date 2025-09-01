@@ -38,7 +38,7 @@
 </div>
 
 
-**My name is Natnael Asnake aka Chesblaw I have 3+ years solid experience on Production Grade Apps and
+**My name is Natnael Asnake I have 3+ years solid experience on Production Grade Apps and
 Systems**
 
 <p align="left">
