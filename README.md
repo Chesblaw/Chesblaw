@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing Header -->
   <a href="https://github.com/Chesblaw">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋+I'm+Nate;Developer;I+Build+Apps🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋+I'm+Nate;Developer;I+Build+Apps" alt="Typing SVG" />
   </a>
 </p>
 </h1>
@@ -33,7 +33,7 @@
 <!-- ==================== About Me ==================== -->
 <div align=center>
   
-### 🌟  Summary & Highlights
+### Summary & Highlights
 </div>
 
 my name is Natnael Asnake I have 3+ years solid experience on **Production Grade Apps and
@@ -55,7 +55,7 @@ Systems**
 <!-- ==================== Skills ==================== -->
 <div align=center>
   
-### ⚡Core Languages & Frameworks Worked On
+### Core Languages & Frameworks Worked On
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -83,7 +83,7 @@ Systems**
 <!-- ==================== Projects ==================== -->
 <div align=center>
   
-### 🚀 Featured Projects
+### Featured Projects
 </div>
 <br>
 <div width="100%" align="center">
@@ -112,7 +112,7 @@ Systems**
 <!-- ==================== Stats ==================== -->
 <div align=center>
   
-### 📊 Github Stats
+### Github Stats
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chesblaw&show_icons=true&theme=radical" />
