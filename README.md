@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing Header -->
   <a href="https://github.com/Chesblaw">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Sup+👋+I'm+Nate;Developer;I+Build+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=600&center=true&vCenter=true&width=1000&lines=Hello+👋+I'm+Nate;Developer;I+Build+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 </h1>
@@ -54,6 +54,7 @@ Systems**
 
 ---
 
+
 <!-- ==================== Skills ==================== -->
 <div align=center>
   
@@ -64,7 +65,6 @@ Systems**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <p align="center">
@@ -75,10 +75,24 @@ Systems**
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 <p align="center">  
-  <!-- Testing Tools -->
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+<p align="center">  
+  <!-- DevOps / Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
@@ -96,11 +110,12 @@ Systems**
 <br/><br/><br/><br/><br/><br/>
 <div width="100%"  align="center" border-bottom: 2px solid blue>
  <a align="left" href="https://github.com/Chesblaw/Scentopia-Backend" title="Scentopia"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Scentopia-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Chesblaw/surplus-supper" title="surplus-supper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=surplus-supper&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/Chesblaw/PeopleHub-Backend" title="PeopleHub-Backend"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=PeopleHub-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width=100% align="center">
   <a align="left" href="https://github.com/Chesblaw/Job-Recommendation-System" title="Job-Recommendation-System"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Job-Recommendation-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Chesblaw/surplus-supper" title="surplus-supper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=surplus-supper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -120,6 +135,8 @@ Systems**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chesblaw&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chesblaw&theme=radical" />
 </p>
+
+
 
 
 
