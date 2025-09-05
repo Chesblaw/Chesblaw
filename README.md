@@ -46,6 +46,7 @@
   ✅ **Developed an AI-powered Employee Chatbot capable of handling 10K+ queries<br>**
   ✅ **Successfully delivered 6+ projects across different domains<br>**
   ✅ **Contributed to large scale OSS<br>**
+  ✅ **Implemented Smart caching and built-in rate limit handling for faster, more reliable checks.<br>**
   
 </p>
 
