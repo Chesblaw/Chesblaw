@@ -43,7 +43,7 @@
 <p align="left">
 
   ✅ **Built and deployed 3+ apps used by users<br>**
-  ✅ **Developed an AI-powered Employee Chatbot handling 10K+ queries<br>**
+  ✅ **Developed an AI-powered Employee Chatbot capable of handling 10K+ queries<br>**
   ✅ **Successfully delivered 6+ projects across different domains<br>**
   ✅ **Contributed to large scale OSS<br>**
   
