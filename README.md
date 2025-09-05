@@ -38,7 +38,7 @@
 </div>
 
 
-**Over the past 3 years i worked on large scale oss projects & Production Grade Apps and Systems and I have solid expertise on resilient, high performance API infrastructure, Data integration, Intelligent systems and user friendly apps that meet business requirements. this is my overall work track**
+**Over the past 3 years i worked on large scale oss projects & Production Grade Apps and Systems and Built solid expertise on resilient, high performance API Service, Data integration, Intelligent systems and user friendly apps that meet business requirements. this is my overall work track**
 
 <p align="left">
 
