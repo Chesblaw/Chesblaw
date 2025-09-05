@@ -87,7 +87,7 @@
 <!-- ==================== Skills ==================== -->
 <div align=center>
   
-### Core Languages & Frameworks Worked On
+### Core Toolkit
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
