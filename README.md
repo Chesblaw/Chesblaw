@@ -69,7 +69,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%"  align="center" border-bottom: 2px solid blue>
  <a align="left" href="https://github.com/Chesblaw/Scentopia-Backend" title="Scentopia"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=Scentopia-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
-   <a align="right" href="https://github.com/Chesblaw/PeopleHub-Backend" title="PeopleHub-Backend"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=PeopleHub-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/Chesblaw/npm-name-checker" title="npm-name-checker"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chesblaw&repo=npm-name-checker&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width=100% align="center">
